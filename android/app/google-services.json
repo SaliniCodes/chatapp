@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75987828255",
+    "project_id": "fir-home-866b3",
+    "storage_bucket": "fir-home-866b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75987828255:android:3c261bec455c4a5d721f2a",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUxT8Fn_KYUDlDGM8qcaUoLv97i-8QDSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75987828255:android:e9127c421581b0c9721f2a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUxT8Fn_KYUDlDGM8qcaUoLv97i-8QDSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
